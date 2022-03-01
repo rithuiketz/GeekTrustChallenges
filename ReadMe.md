@@ -1,3 +1,7 @@
+#Coding Challenge for Intuit from GeekTrust
+This challenge is from geektrust to qualify for Intuit, currently the dues method is not working and need to iplement clear dues and moveout functionality.
+https://www.geektrust.in/coding-problem/backend/expenses-management
+
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
